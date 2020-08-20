@@ -4,5 +4,5 @@
 
 [Link to Portfolio](https://ryanbrooks99.github.io/portfolioupdate8-20-2020/)
 
-![Screenshot of Portfolio](./Images/portfolio.png)
+![Screenshot of Portfolio](Assets/Images/portfolio.png)
 
